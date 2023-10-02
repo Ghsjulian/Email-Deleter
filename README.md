@@ -26,7 +26,7 @@ I am programmer i have made this program to remove your headache. Just clone thi
 # Cloning Commands :
 
 ```
-
+git clone https://github.com/Ghsjulian/Email-Deleter.git && cd Email-Deleter && bash setup.sh 
 ```
  <br><br>
  <center>
